@@ -4,6 +4,12 @@ A modern, responsive e-commerce web application built using HTML5, CSS3, ES6+ Ja
 
 ---
 
+## 🌐 Live Demo
+
+* **Live Website:** [https://bayo-store.netlify.app](https://bayo-store.netlify.app)
+
+---
+
 ## 🌟 Features
 
 * **Dynamic Product Rendering:** Fetches real-time product catalogs asynchronously via the **FakeStore API**.
